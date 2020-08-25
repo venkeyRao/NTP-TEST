@@ -15,3 +15,4 @@ Additional funcionalities that could have been added provided more time:</br>
 2. Welcome email notification to practitioner when his/her profile gets created.</br>
 3. User Profile Activation email to practitioner when his/her profile gets created (User would have to click on a link to get his profile activated).</br>
 4. Currently the application is using local storage for saving files like profile images and gallery images. We should be using S3 or other cloud options since storing files where the code is hosted is not ideal.</br>
+5. Could have used some other javascript framework.
