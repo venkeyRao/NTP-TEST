@@ -17,7 +17,7 @@ docker-compose.yml included to set-up the application, the steps are as follows 
 3. docker-compose build && docker-compose up -d && docker-compose logs -f<br />
  
 Manual Installtion:
-1. Install php, apache, mongodb & composer with all the required extensions and setting to run a laravel application.<br />
+1. Install php, apache, mongodb & composer with all the required extensions and settings to run a laravel application.<br />
 2. git clone https://github.com/venkeyRao/NTP-TEST.git<br />
 3. cd NTP-TEST<br />
 4. comoser install
